@@ -1,0 +1,25 @@
+body {
+  background-color: lightBlue;
+}
+
+h1 {
+  font-size: 50px;
+  color: gold;
+  text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+  color: DimGrey;
+}
+
+.header {
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+}
+
+body {
+  margin: 0;
+}
